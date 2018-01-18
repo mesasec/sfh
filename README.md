@@ -1,3 +1,3 @@
 # sfh
-stream fuzzy hash
-For academic research ONLY.
+- **Stream Fuzzy Hash**
+- **For academic use only.**
